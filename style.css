@@ -1,0 +1,81 @@
+body {
+	text-align: center;
+	font-family: "Castoro", serif;
+	color: #1c1c1b;
+	box-sizing: border-box;
+}
+
+/* navigation bar */
+
+.landingPage {
+}
+
+.profile {
+	text-align: center;
+	width: 100%;
+	max-width: 350px;
+	border-radius: 50%;
+	margin-bottom: 10%;
+}
+
+/* Research Page */
+
+.section {
+	text-align: left;
+	margin: 5% 2%;
+}
+.research {
+}
+
+.sectionHead {
+	margin: 5% 0;
+	font-weight: 300;
+	font-size: 2.2rem;
+	font-family: "Roboto", sans-serif;
+}
+
+.projectTitle {
+	font-weight: bold;
+	font-size: 1.2rem;
+	margin: 0 0 1% 3%;
+}
+
+.projectDescription {
+	font-family: "Roboto", sans-serif;
+	margin: 0 0 0 3%;
+}
+
+.projectRemark {
+	color: darkred;
+	font-size: 0.9rem;
+	font-family: "Roboto", sans-serif;
+	margin: 1% 0 0 3%;
+	font-style: italic;
+}
+/* Bio Page */
+
+ul {
+	list-style-type: none;
+	font-family: "Roboto", sans-serif;
+}
+
+li {
+	margin: 2% 0;
+}
+/* contact page */
+.contact-icon {
+	width: 15px;
+}
+
+/* footer */
+.footer {
+	padding: 2% 0 1% 0;
+}
+
+.footer p {
+	margin: 1%;
+}
+
+.footer a {
+	color: #ffff;
+}
