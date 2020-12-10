@@ -52,6 +52,46 @@ body {
 	margin: 1% 0 0 3%;
 	font-style: italic;
 }
+/* Publication Page */
+
+.articleRemark {
+	color: white;
+	font-size: 0.9rem;
+	font-family: "Roboto", sans-serif;
+	font-style: italic;
+	background-color: darkred;
+	padding: 0 1%;
+	border-radius: 5px;
+}
+.publicationBody {
+	margin: 1% 0 0 0;
+}
+ol {
+	padding-left: 5%;
+}
+
+.publication-category {
+	text-decoration: underline;
+	margin-left: -2%;
+	margin-top: 7%;
+}
+
+.articleTitle {
+	font-family: "Roboto", sans-serif;
+}
+
+.articleRemark a {
+	color: white;
+}
+
+.author {
+	font-style: italic;
+	color: rgb(46, 26, 224);
+}
+
+.journal {
+}
+
 /* Bio Page */
 
 ul {
