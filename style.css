@@ -32,8 +32,6 @@ a:hover {
 	text-align: left;
 	margin: 5% 2%;
 }
-.research {
-}
 
 .sectionHead {
 	margin: 5% 0;
@@ -44,36 +42,58 @@ a:hover {
 
 .projectTitle {
 	font-weight: bold;
-	font-size: 1.2rem;
-	margin-bottom: 1%;
+	font-size: 1rem;
+	margin: 0;
 }
 
 .projectDescription {
 	font-family: "Roboto", sans-serif;
+	margin: 1% 0 0 0;
+	font-size: 1rem;
 }
 
 .release-date {
-	color: rgb(46, 26, 224);
-	font-style: italic;
+	color: #607d8b;
+	margin: 0;
+	font-size: 0.8rem;
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
 }
 
-.projectRemark {
+/* .projectRemark {
 	color: darkred;
 	font-size: 0.9rem;
 	font-family: "Roboto", sans-serif;
-	margin: 1% 0 0 0;
+	margin: 0;
 	font-style: italic;
+} */
+
+.downloadButtons {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-start;
+	align-items: center;
 }
+.btnImage {
+	width: 150px;
+}
+.appleStore {
+	width: 130px;
+}
+.googlePlayStore {
+	width: 150px;
+}
+
 /* Publication Page */
 
-.R-label {
-	color: white;
+.code-label {
 	font-size: 0.9rem;
 	font-family: "Roboto", sans-serif;
 	font-style: italic;
 	font-weight: bold;
-	background-color: darkred;
+	background-color: #e0f2f1;
 	padding: 0 1%;
+	margin: 0 1px;
 	border-radius: 5px;
 }
 
@@ -87,9 +107,6 @@ a:hover {
 	border-radius: 5px;
 }
 
-.publicationBody {
-	margin: 1% 0 0 0;
-}
 ol {
 	padding-left: 5%;
 }
