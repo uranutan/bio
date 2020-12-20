@@ -147,7 +147,9 @@ li {
 .contact-icon {
 	width: 15px;
 }
-
+.degree {
+	font-weight: bolder;
+}
 /* footer */
 .footer {
 	padding: 2% 0 1% 0;
