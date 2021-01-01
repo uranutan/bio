@@ -26,6 +26,17 @@ a:hover {
 	margin-bottom: 10%;
 }
 
+.hireButton {
+	background-color: #bf360c;
+	font-weight: bold;
+	color: white;
+}
+
+.hireButton:hover {
+	color: white;
+	background-color: #f9683a;
+}
+
 /* Research Page */
 
 .section {
