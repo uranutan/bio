@@ -37,6 +37,12 @@ a:hover {
 	background-color: #f9683a;
 }
 
+.job-description {
+	color: #455a64;
+	font-size: small;
+	margin-left: 5%;
+}
+
 /* Research Page */
 
 .section {
